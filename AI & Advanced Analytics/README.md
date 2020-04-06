@@ -3,11 +3,11 @@
 ## Introduction 
 
 Welcome to the Microsoft Student Accelerator Australia  2020 bootcamp on AI and Analytics. This module hopes 
-to teach you the fundamental ideas behind Machine Learning and give you a picture of what it looks like to use Machine Learning and why it's useful. Machine learning is one of the emerging technologies which has the power to change the world and we would like to enable everyone to harness it power. Hence, in this bootcamp students from all background on how to get started with Machine Learning.  
+to teach you the fundamental ideas behind Machine Learning and give you a picture of what it looks like to use Machine Learning and why it's useful. Machine learning is one of the emerging technologies which has the power to change the world and we would like to enable everyone to harness it power. Hence, in this bootcamp, students from all background will be taught on how to get started with Machine Learning.  
 
 ### Low/No code Approach 
 For those who don't have any prior coding experience, we will be leveraging Azure Machine Learning Studio to 
-create a Machine Learning model without writing any code. The Designer tool in ML Studio enables such to 
+create a Machine Learning model without writing any code. The Designer tool in ML Studio enables us 
 develop our project by dragging and dropping appropriate layers. 
 
 ### Coding Approach 
@@ -18,7 +18,7 @@ Azure Notebooks.
 
 ## How to complete this bootcamp 
 To complete this bootcamp you need to submit a project and complete the Microsoft Learn Modules given in the 
-assignment section in this project. We recommend the following this order: 
+assignment section of this project. We recommend the following order: 
 
 1. Explore the resources section & complete Microsoft Learn Modules. 
 2. Check-out the demo project.
@@ -49,9 +49,9 @@ https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlR
 
 
 ## Project 
-To consolidate your learning from this bootcamp we suggest completing a projects. Apart form learning purposes
+To consolidate your learning from this bootcamp we suggest completing a project. Apart form learning purposes
 you can also share this project in your CV/resume and might be useful in your future job search.
-The projects are also mandatory and part of this bootcamp's assessment. You must complete the project with the following guidelines: 
+The projects are also mandatory and parts of this bootcamp's assessment. You must complete the project with the following guidelines: 
 - You have to upload and maintain a GitHub repo for your project 
 - Your project must not have only one commit. We need to check commit history to ensure validity project 
 - If it's a code file, it must have comments to explain the major steps in your code 
